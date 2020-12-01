@@ -1,2 +1,3 @@
 data: lv_var type c value 'Test1'.
-write: lva_Var.
+write: lv_Var.
+lv_Var = '1234'.
